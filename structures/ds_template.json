@@ -1,0 +1,21 @@
+{
+    "data": {},
+    "models": {},
+    "notebooks": {},
+    "src": {
+        "data": {
+            "make_dataset": "make_dataset.py"
+        },
+        "features": {
+            "build_features": "build_features.py"
+        },
+        "models": {
+            "train_model": "train_model.py",
+            "prediction_model": "predict_model.py"
+        },
+        "utils": {},
+        "intit": "__init__.py"
+    },
+    "readme": "README.md",
+    "requirements": "requirements.txt"
+}
