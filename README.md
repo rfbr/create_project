@@ -22,7 +22,7 @@ Let's try with the example present in the *structures* folder: **ds_template.jso
 <img src="https://user-images.githubusercontent.com/45492759/81725732-8ec49d80-9486-11ea-98d4-76ca8bb9b6b6.png" height="400" width="400">
 <p\>
 
-We run the command:
+Run the command:
 
 <img src="https://user-images.githubusercontent.com/45492759/81728342-94bc7d80-948a-11ea-8e46-087b0af05573.png" height="40" width="400">
 
