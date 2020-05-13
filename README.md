@@ -24,9 +24,9 @@ Let's try with the example present in the *structures* folder: **ds_template.jso
 
 We run the command:
 
-<img src="https://user-images.githubusercontent.com/45492759/81728342-94bc7d80-948a-11ea-8e46-087b0af05573.png" height="50" width="400">
+<img src="https://user-images.githubusercontent.com/45492759/81728342-94bc7d80-948a-11ea-8e46-087b0af05573.png" height="40" width="400">
 
 It worked !
 
-<img src="https://user-images.githubusercontent.com/45492759/81728452-c7667600-948a-11ea-9def-677246e7728d.png">
+<img src="https://user-images.githubusercontent.com/45492759/81728452-c7667600-948a-11ea-9def-677246e7728d.png" height="200" width="200">
 
