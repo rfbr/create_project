@@ -2,8 +2,7 @@
 
 ## How it works?
 
-- It's quite simple, a JSON object ({}) represents a folder, a string is a file (it denotes its name).
-You can create your different JSON templates for your recurrent projects.
+- It's quite simple, create a .json file such as a JSON object ({}) represents a folder, a string is a file (it denotes its name). You can create your different JSON templates for your recurrent projects.
 
 - Put them in the *structures* folder.
 
